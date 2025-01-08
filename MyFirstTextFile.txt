@@ -1,8 +1,12 @@
 Hello this is programming tutorials...
 Pragim tutorials...
 <<<<<<< HEAD
+<<<<<<< HEAD
 I want to learn java programming
 
+=======
+I want to learn java programming
+>>>>>>> main
 =======
 I want to learn java programming
 >>>>>>> main
